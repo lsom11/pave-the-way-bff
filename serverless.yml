@@ -21,5 +21,5 @@ package:
 functions:
   search:
     handler: http
-    events:
+    dis:
       - http: functions/search.search
